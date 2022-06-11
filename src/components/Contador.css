@@ -1,0 +1,8 @@
+.contagem{
+    font-size: 2rem;
+    padding-block-start: 16px;
+    padding: 8px;
+    border: hsl(60, 12%, 52%) solid 1px;
+    inline-size: fit-content;
+    margin-inline: auto;
+}

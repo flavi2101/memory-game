@@ -1,0 +1,22 @@
+.cardItem {
+    position: relative;
+    inline-size: 100%;
+    border: 2px solid whitesmoke;
+}
+
+.background {
+    display: block;
+    position: absolute;
+    inline-size: 100%;
+    transition-delay: 0.3s;
+}
+
+.flipped{
+    display: none;
+    position: absolute;
+    inline-size: 100%;
+    transition-delay: all  0.2s;
+   
+}
+
+
